@@ -52,19 +52,19 @@ public class Main {
                           break;
                       case 3:
                          System.out.println("");
-                         System.out.println("3.*Persona mas grande y edad*:");
+                         System.out.println("3.*Diferencia persona mas grande y chica*:");
                          System.out.println(""+ arbol.Diferencia() + " años" +""); 
                          System.out.println("");
                           break;
                       case 4:
                          System.out.println("");
-                         System.out.println("4.*Diferencia persona mas grande y chica*:");
+                         System.out.println("4.*Participantes que hay*:");
                          System.out.println(arbol.getNumeroDeNodos());
                          System.out.println("");
                           break;
                      case 5:
                          System.out.println("");
-                         System.out.println("5.*Participantes que hay*:");
+                         System.out.println("5.*Suma de los participantes*:");
                          System.out.println(arbol.getSumaEdades());
                          System.out.println("");
                           break;
